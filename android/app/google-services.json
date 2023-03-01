@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749073957563",
+    "project_id": "sampleeenov",
+    "storage_bucket": "sampleeenov.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749073957563:android:72e64d8a427161e0e01f9e",
+        "android_client_info": {
+          "package_name": "com.example.sampleloginfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749073957563-75dt2lo029ubrq90toduccnrr9h7ln3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR9gHE9vU0Onc9WS3a3K13m11JP04g-Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749073957563-75dt2lo029ubrq90toduccnrr9h7ln3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
